@@ -1,0 +1,192 @@
+.col1 {
+  width: 5.3333333333%;
+  margin: 1.5%;
+}
+
+.col2 {
+  width: 13.6666666667%;
+  margin: 1.5%;
+}
+
+.col3 {
+  width: 22%;
+  margin: 1.5%;
+}
+
+.col4 {
+  width: 30.3333333333%;
+  margin: 1.5%;
+}
+
+.col5 {
+  width: 38.6666666667%;
+  margin: 1.5%;
+}
+
+.col6 {
+  width: 47%;
+  margin: 1.5%;
+}
+
+.col7 {
+  width: 55.3333333333%;
+  margin: 1.5%;
+}
+
+.col8 {
+  width: 63.6666666667%;
+  margin: 1.5%;
+}
+
+.col9 {
+  width: 72%;
+  margin: 1.5%;
+}
+
+.col10 {
+  width: 80.3333333333%;
+  margin: 1.5%;
+}
+
+.col11 {
+  width: 88.6666666667%;
+  margin: 1.5%;
+}
+
+.col12 {
+  width: 97%;
+  margin: 1.5%;
+}
+
+.spacerSection {
+  padding: 2% 0;
+}
+
+.space10 {
+  margin-top: 10px;
+}
+
+.space20 {
+  margin-top: 20px;
+}
+
+.space30 {
+  margin-top: 30px;
+}
+
+.space40 {
+  margin-top: 40px;
+}
+
+.space50 {
+  margin-top: 50px;
+}
+
+.space60 {
+  margin-top: 60px;
+}
+
+.space70 {
+  margin-top: 70px;
+}
+
+.space80 {
+  margin-top: 80px;
+}
+
+.space90 {
+  margin-top: 90px;
+}
+
+.space100 {
+  margin-top: 100px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+h2, h3, h4, h5 {
+  line-height: 140%;
+}
+
+h1 {
+  line-height: 180%;
+}
+
+p {
+  line-height: 160%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.spacer100 {
+  margin: 150px 0 0;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container {
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.header {
+  background-image: url("img/online-programming-course-hero-section-bg.svg");
+  width: 100%;
+  height: 740px;
+  background-color: white;
+}
+
+.js {
+  justify-content: center;
+}
+
+.herodes h1 {
+  color: white;
+  font-size: 3.1em;
+}
+.herodes p {
+  color: rgb(211, 211, 211);
+  font-size: 22px;
+}
+.herodes a {
+  border: 1px solid #fe6b90;
+  text-decoration: none;
+  color: white;
+  padding: 15px 40px;
+  border-radius: 12px;
+  background: #fe6b90;
+  font-size: 19px;
+}
+
+.logo {
+  text-decoration: none;
+  color: white;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  font-size: 21px;
+}
+
+.btn a {
+  border: 1px solid #fe6b90;
+  text-decoration: none;
+  color: white;
+  padding: 10px 40px;
+  border-radius: 12px;
+  background: #fe6b90;
+  font-size: 19px;
+}/*# sourceMappingURL=style.css.map */
